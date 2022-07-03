@@ -1,0 +1,10 @@
+C:\Users\psina\source\repos\Calculator (classic)\Calculator (classic)\bin\Debug\Calculator (classic).exe.config
+C:\Users\psina\source\repos\Calculator (classic)\Calculator (classic)\bin\Debug\Calculator (classic).exe
+C:\Users\psina\source\repos\Calculator (classic)\Calculator (classic)\bin\Debug\Calculator (classic).pdb
+C:\Users\psina\source\repos\Calculator (classic)\Calculator (classic)\obj\Debug\Calculator (classic).csproj.AssemblyReference.cache
+C:\Users\psina\source\repos\Calculator (classic)\Calculator (classic)\obj\Debug\Calculator__classic_.Form1.resources
+C:\Users\psina\source\repos\Calculator (classic)\Calculator (classic)\obj\Debug\Calculator__classic_.Properties.Resources.resources
+C:\Users\psina\source\repos\Calculator (classic)\Calculator (classic)\obj\Debug\Calculator (classic).csproj.GenerateResource.cache
+C:\Users\psina\source\repos\Calculator (classic)\Calculator (classic)\obj\Debug\Calculator (classic).csproj.CoreCompileInputs.cache
+C:\Users\psina\source\repos\Calculator (classic)\Calculator (classic)\obj\Debug\Calculator (classic).exe
+C:\Users\psina\source\repos\Calculator (classic)\Calculator (classic)\obj\Debug\Calculator (classic).pdb
